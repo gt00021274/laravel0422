@@ -1,0 +1,7 @@
+echo "# laravel0422" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:gt00021274/laravel0422.git
+git push -u origin main
